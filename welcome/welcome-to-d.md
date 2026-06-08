@@ -1,52 +1,50 @@
-# Welcome to D
+# Welkom bij D
 
-Welcome to the interactive tour of the *D Programming language*.
+Welkom bij de interactieve rondleiding door de *D Programmeer taal*.
 
 {{#dmanmobile}}
 
-The tour gives an overview of this __powerful__ and __expressive__
-language which compiles directly to __efficient__, __native__ machine code.
+De rondleiding biedt een overzicht van deze __krachtige__ en __expressieve__
+taal, die rechtstreeks wordt gecompileerd naar __efficiënte__, __native__ machinecode.
 
 {{/dmanmobile}}
 
-### What is D?
+### Wat is D?
 
-D is the culmination of _decades of experience implementing compilers_
-for many diverse languages and has a unique set of features:
+D is het resultaat van _tientallen jaren ervaring met het ontwikkelen van compilers_
+voor tal van verschillende programmeertalen en beschikt over een unieke reeks functies:
 
 {{#dmandesktop}}
 
-- _high level_ constructs for great modeling power
-- _high performance_, compiled language
-- static typing
-- direct interface to the operating system API's and hardware
-- blazingly fast compile-times
-- memory-safe subset (SafeD)
-- _maintainable_, _easy to understand_ code
-- gradual learning curve (C-like syntax, similar to Java and others)
-- compatible with C application binary interface
-- limited compatibility with C++ application binary interface
-- multi-paradigm (imperative, structured, object oriented, generic, functional programming purity, and even assembly)
-- built-in error detection (contracts, unittests)
+- _high level_ constructies voor uitstekende modelleringsmogelijkheden
+- _hoge prestaties_, gecompileerde taal
+- statische types
+- directe koppeling met de API’s van het besturingssysteem en de hardware
+- zeer snelle compilatietijden
+- geheugenveilige subset (SafeD)
+- _onderhoudbare_, _makkelijk te begrijpen_ code
+- een geleidelijke leercurve (C-achtige syntax, vergelijkbaar met Java en andere talen)
+- compatibel met de binaire interface voor C-toepassingen
+- beperkte compatibiliteit met de binaire interface van C++-toepassingen
+- veelzijdig (imperatief, gestructureerd, objectgeoriënteerd, generiek, functioneel programmeren, en zelfs assembleertaal)
+- ingebouwde foutdetectie (contracten, unit-tests)
 
-... and many more [features](http://dlang.org/overview.html).
+... en nog veel meer [functionaliteiten](http://dlang.org/overview.html).
 
 {{/dmandesktop}}
 
-### About the tour
+### Over de rondleiding
 
-Each section comes with a source code example that can be modified and used
-to experiment with D's language features.
-Click the run button (or `Ctrl-enter`) to compile and run it.
+Elk hoofdstuk bevat een voorbeeld broncode dat kan worden aangepast en gebruikt
+om te experimenteren met de taalfuncties van D.
+Klik op de ‘run’ knop (of druk op `Ctrl-Enter`) om het programma te compileren en uit te voeren.
 
-To navigate this tour, either use the "`<` previous" and "next `>`" links at the
-bottom (or left and right arrow keys), or else go straight to particular sections
-using the menus at the top.
+Om door deze rondleiding te navigeren, gebruik de "`<` vorige" en de "`>` volgende" knoppen die beneden te vinden zijn op het scherm (of gebruik de linker- en rechterpijltoets). Of ga meteen naar een specifiek hoofdstuk met behulp van het menu bovenaan.
 
 ### Contributing
 
-This tour is [open source](https://github.com/dlang-tour)
-and we welcome pull requests making this tour even better.
+Deze rondleiding is [open source](https://github.com/dlang-tour)
+en we staan open voor pull requests om deze rondleiding te verbeteren.
 
 ## {SourceCode}
 
